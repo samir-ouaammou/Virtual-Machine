@@ -6,7 +6,6 @@ Defaults	log_input
 Defaults	log_output
 Defaults	requiretty
 
-
 souaammo	ALL=(ALL:ALL) ALL
 
 souaammo	ALL=(root) NOPASSWD: /usr/local/bin/monitoring.sh 

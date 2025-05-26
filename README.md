@@ -1,3 +1,4 @@
+
 ## 🛠️ Born2beRoot - 1337 School Project
 Welcome to my Born2beRoot repository! 🚀
 The Born2beRoot project is a critical step in the 1337 School curriculum, designed to deepen our understanding of Linux systems, server administration, and cybersecurity principles. This project combines practical system setup with theoretical knowledge of operating systems and network security.
